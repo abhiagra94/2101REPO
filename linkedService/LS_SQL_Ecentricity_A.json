@@ -1,0 +1,17 @@
+{
+	"name": "LS_SQL_Ecentricity_A",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "SqlServer",
+		"typeProperties": {
+			"connectionString": "integrated security=True;data source=ECCENTRICITY\\SQLEXPRESS;initial catalog=sqlpool",
+			"userName": "anumeyachandra@live.com",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJjODk5MTY5Yy0yMTVjLTQ5ZjItYWEyYi1lYjY4YmViN2EyYTAiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "integrationRuntime-RG1-A",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}

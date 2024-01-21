@@ -1,0 +1,9 @@
+{
+	"name": "RG1-ADF-KPI",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a8f01d7d-aa00-4e01-87f6-7a555b0df749",
+		"tenantId": "aaca3f8e-6101-4b9f-a5de-d9d30dee882f"
+	}
+}

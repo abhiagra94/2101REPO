@@ -1,0 +1,6 @@
+{
+	"name": "integrationRuntime-RG1-A",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
